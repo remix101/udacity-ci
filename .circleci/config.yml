@@ -19,7 +19,7 @@ jobs:
               --region us-east-1
 
 # Invoke jobs via workflows
-# See: https://circleci.com/docs/2.0/configuration-reference/#workflows
+# See: https://circleci.com/docs/2.0/configuration-reference/#workflow
 workflows:
   my-workflow:
     jobs:
